@@ -1,0 +1,20 @@
+[
+  {
+    "id": "kantor_bpn_lahan_basah",
+    "type": "park",
+    "title": "Kantor BPN (Badan Pertanahan Nanti)",
+    "author": "Farhan Agil",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {"bmp": "kantorBPN.png"}
+    ],
+    "price": 1000,
+    "monthly price": -950000000000,
+    "level": 5,
+    "text": "Kantor urusan tanah. Ramai dikunjungi calo. Menghasilkan 'pendapatan taktis' yang sangat besar.",
+    "influence park": 1000,
+    "influence culture": 1000, 
+    "build time": 0
+  }
+]
