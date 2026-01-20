@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Mall Rebelion",
+    "author": "Crycil",
+    "meta": {
+      "properties": "",
+      "object": {
+        "pca": {
+          "version": "1.1.0"
+        }
+      }
+    },
+    "frames": [
+      {
+        "bmp": "Mall Rebelion.png"
+      }
+    ],
+    "price": 10,
+    "monthly price": 50,
+    "build time": 1,
+    "influence park": 10050,
+    "influence education low": 16660,
+    "influence education high": 8330,
+    "provide aspect health care": 500000,
+    "provide aspect education low": 67567765865,
+    "provide aspect education medium": 10000,
+    "provide aspect education high": 67567765865,
+    "provide education low capacity": 5000000,
+    "provide education high capacity": 5000000,
+    "width":4,
+    "height":4,
+    "level":1,
+    "needs land":true,
+    "draw ground":true,
+    "performance":true,
+    "type": "commercial"
+  }
+]
