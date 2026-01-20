@@ -1,8 +1,7 @@
 {
-  "id": "com.crycil.mall.rebel",
-  "version": 1.1.0,
-  "title": "Mall Rebel level 1",
-  "text": "Mall in a slum village.",
-  "author": "CRycil",
-  "target": "1380"
+  "id": "com-crycil-mall-rebel",
+  "version": 1,
+  "title": "Mall-Rebel-level-1",
+  "text": "Mall-in-a-slum-village.",
+  "author": "Crycil"
 }
